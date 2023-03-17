@@ -2,7 +2,7 @@
 
 /**
  *main - a program that prints the size od various computer steps
- * Return: 0 (Success)
+ * Return: Always 0 .
  */
 
 int main(void)
