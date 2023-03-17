@@ -1,7 +1,8 @@
 #include <studio.h>
+
 /**
  * main - a program the print a line using printf function
- * Return : 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
