@@ -1,12 +1,11 @@
 #include <studio.h>
 /**
-* main - "prints with proper grammar,but the outcome is
-* a piece of art," followed new line
-* Return : Always 0
-*/
+ * main - "prints with proper grammar,but the outcome is
+ * a piece of art," followed new line
+ * Return : Always 0
+ */
 
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
+printf ("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
-}
