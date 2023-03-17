@@ -1,7 +1,7 @@
 #include <stdio.h>
-
 /**
  *main - a program that prints the size od various computer steps
+ *
  * Return: Always 0 .
  */
 
